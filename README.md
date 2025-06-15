@@ -4,7 +4,7 @@ requisitos para correr el programa, tener instalado node, composer, xampp o algu
 
 luego de clonar el repositorio se necesitan instalar dependencias
 
-para instalar dependencias de programa se necesita ejecutar en consola dentro del proyecto "composer install" "npm install" "php artisan serve" 
+para instalar dependencias de programa se necesita ejecutar en consola dentro del proyecto "composer install" "npm install" 
 
 para crear la base de datos ejecutar en terminal "php artisan migrate"
 
